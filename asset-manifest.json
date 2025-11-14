@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tuition-Centre/static/css/main.55dc8d5a.css",
+    "main.js": "/Tuition-Centre/static/js/main.c8dbbc52.js",
+    "static/js/453.9799b89c.chunk.js": "/Tuition-Centre/static/js/453.9799b89c.chunk.js",
+    "index.html": "/Tuition-Centre/index.html",
+    "main.55dc8d5a.css.map": "/Tuition-Centre/static/css/main.55dc8d5a.css.map",
+    "main.c8dbbc52.js.map": "/Tuition-Centre/static/js/main.c8dbbc52.js.map",
+    "453.9799b89c.chunk.js.map": "/Tuition-Centre/static/js/453.9799b89c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55dc8d5a.css",
+    "static/js/main.c8dbbc52.js"
+  ]
+}
